@@ -10,13 +10,13 @@ Profissional de tecnologia graduado em redes, comecei a trabalhar como analista 
 
 ##### [Curriculo Online](https://gehjunior.github.io/).
 
-####Estudo e tenho habilidades nas clouds
+#### Estudo e tenho habilidades nas clouds
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-####Algumas das tecnologias de trabalho.
+#### Algumas das tecnologias de trabalho.
 
 ![Kubernets](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
